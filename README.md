@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-[![Lucile's GitHub stats](https://github-readme-stats.vercel.app/api?username=LU347)](https://github.com/LU347/github-readme-stats)
-
 <!--
 **LU347/LU347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
