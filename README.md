@@ -1,4 +1,6 @@
-### Hi there 👋
+### Howdy 🤠
+[My Portfolio] (https://lu347-portfolio.vercel.app/)
+
 <!--
 **LU347/LU347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
