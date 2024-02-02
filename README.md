@@ -1,6 +1,17 @@
 ### Howdy 🤠
 [My Portfolio](https://lu347-portfolio.vercel.app/)
 
+- 🔭 I’m currently working on:
+  _ Web App:
+    _ To Do List / Grocery Tracker
+  _ Games:
+    _ Snowball Offensive
+    _ Teapot Tycoon Remastered Beta
+  
+- 🌱 I’m currently learning:
+  _ MERN Stack
+  _ Building an API
+
 <!--
 **LU347/LU347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
