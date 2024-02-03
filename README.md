@@ -4,9 +4,6 @@
 ## 🔭 I’m currently working on:
 - Web App:
    1. To Do List / Grocery Tracker
-- Games:
-   1. Snowball Offensive
-   2. Teapot Tycoon Remastered Beta
   
 ## 🌱 I’m currently learning:
   1. MERN Stack
