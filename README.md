@@ -8,9 +8,8 @@
 
 <h2 align="left">📚 I'm currently learning:</h2><br>
 <ul align="left"><li>C++</li></ul>
-<br>
 <h2 align="left">🎯 Goals:</h2><br>
-<ul align="left"><li>Release a fully-fledged game on a platform</li></ul>ul>
+<ul align="left"><li>Release a fully-fledged game on a platform</li></ul>
 
 ###
 
