@@ -1,7 +1,6 @@
 <h1 align="left">Hey 👋 I'm LU347</h1>
 
 ###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lu347&label=Profile%20views&color=0e75b6&style=flat" alt="lu347" /> </p>
 <h2 align="left">About me</h2>
 
 ###
@@ -37,5 +36,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lu347&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=lu347&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lu347&label=Profile%20views&color=0e75b6&style=flat" alt="lu347" /> </p>
 ###
