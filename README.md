@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **a Full-Stack class project.**
 
-- 🌱 I’m currently learning **C++, Game Engines, Backend Development**
+- 🌱 I’m currently learning **C++, Backend Development**
 
 - 👯 I’m looking to collaborate on **any web development projects.**
 
-- 💬 Ask me about **anything!**
+- 💬 Ask me about **outer space, video games, music, spoken languages, etc!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
