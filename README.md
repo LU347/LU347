@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++, Backend Development**
 
-- 👯 I’m looking to collaborate on **any web development projects.**
+- 👯 I’m looking to collaborate on **any web development or game development projects (Unity).**
 
 - 💬 Ask me about **outer space, video games, music, spoken languages, etc!**
 
