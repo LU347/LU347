@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucile</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h3 align="center">Aspiring Software Engineer (Full Stack)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lu347&label=Profile%20views&color=0e75b6&style=flat" alt="lu347" /> </p>
 
