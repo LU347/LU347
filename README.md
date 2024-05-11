@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lu347&label=Profile%20views&color=0e75b6&style=flat" alt="lu347" /> </p>
 
-- 🔭 I’m currently working on **a Full-Stack class project.**
+- 🔭 I’m currently working on **a website using ReactJs**
 
-- 🌱 I’m currently learning **C++, Backend Development**
+- 🌱 I’m currently learning **ReactJs**
 
-- 👯 I’m looking to collaborate on **any web development or game development projects (Unity).**
+- 👯 I’m looking to collaborate on **any game jams (Unity).**
 
 - 💬 Ask me about **outer space, video games, music, spoken languages, etc!**
 
