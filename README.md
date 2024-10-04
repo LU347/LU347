@@ -1,4 +1,4 @@
-<div align = left>
+<div align = center>
 <h2>Did you LeetCode today?</h2>
 
 [![Button Yes]][Nice]  [![Button No]][No]
