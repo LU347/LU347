@@ -8,4 +8,4 @@ Languages that i've used in the past:
 
 Currently enhancing my knowledge of:
 
-    Python and Backend Development
+    DSA, Python and Backend Development
